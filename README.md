@@ -6,8 +6,8 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate IT student building a strong foundation in full stack development.
-I love turning ideas into real working projects — from IoT systems to REST APIs to frontend websites.
+A passionate Computer Science student with hands-on experience building full-stack web applications, REST APIs & IoT real-time web projects. Looking to contribute practical skills and grow as a developer. 
+
 Always learning, always building.
 
 ---
