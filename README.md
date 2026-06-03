@@ -125,7 +125,7 @@ Always learning, always building.
 ---
 
 ## 📫 Connect With Me
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=flat&logo=google-chrome&logoColor=white)](https://dipishatimsina.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-dipishatimsina-181717?style=flat&logo=github&logoColor=white)](https://github.com/dipishatimsina)
 [![Email](https://img.shields.io/badge/Email-dipishatimsina2@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dipishatimsina2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
