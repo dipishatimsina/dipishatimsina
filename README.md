@@ -1,6 +1,6 @@
 # Hi there, I'm Dipisha Timsina 👋
 
-### 🎓 IT Student | Aspiring Full Stack Developer | MERN Stack Enthusiast
+### 🎓 IT Student | Aspiring Full Stack Developer 
 
 ---
 
